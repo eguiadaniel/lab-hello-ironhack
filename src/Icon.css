@@ -1,0 +1,20 @@
+.Icon {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.Icon-items {
+  flex-grow: 1;
+  margin-right: 20px;
+}
+
+.Icon-logo {
+  height: 21vmin;
+  padding-bottom: 0;
+  mix-blend-mode: overlay;
+}
+
+.Icon-message {
+  color: #09d3ac;
+}
